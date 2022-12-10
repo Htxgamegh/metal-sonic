@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MetalIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-75
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MetalUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-121
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MetalLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-159
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MetalRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-429
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "metalDOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Metalsonic",
+	"position": [
+		-40,
+		-160
+	],
+	"healthicon": "Metal",
+	"flip_x": false,
+	"healthbar_colors": [
+		32,
+		37,
+		115
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
