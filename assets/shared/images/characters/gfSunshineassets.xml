@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfSunshineassets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat Instanz 10000" x="0" y="0" width="700" height="670" frameX="-2" frameY="-4" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10001" x="700" y="0" width="704" height="670" frameX="0" frameY="-4" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10002" x="1404" y="0" width="704" height="667" frameX="0" frameY="-7" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10003" x="2108" y="0" width="700" height="667" frameX="-2" frameY="-7" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10004" x="2808" y="0" width="700" height="669" frameX="-2" frameY="-5" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10005" x="3508" y="0" width="700" height="669" frameX="-2" frameY="-5" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10006" x="4208" y="0" width="700" height="665" frameX="-2" frameY="-9" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10007" x="4908" y="0" width="700" height="657" frameX="-2" frameY="-17" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10008" x="4908" y="0" width="700" height="657" frameX="-2" frameY="-17" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10009" x="4908" y="0" width="700" height="657" frameX="-2" frameY="-17" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10010" x="5608" y="0" width="700" height="667" frameX="-2" frameY="-7" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10011" x="5608" y="0" width="700" height="667" frameX="-2" frameY="-7" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10012" x="5608" y="0" width="700" height="667" frameX="-2" frameY="-7" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10013" x="6308" y="0" width="700" height="669" frameX="-2" frameY="-5" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10014" x="6308" y="0" width="700" height="669" frameX="-2" frameY="-5" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10015" x="7008" y="0" width="700" height="674" frameX="-2" frameY="0" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10016" x="0" y="674" width="704" height="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10017" x="704" y="674" width="704" height="672" frameX="0" frameY="-2" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10018" x="1408" y="674" width="700" height="672" frameX="-2" frameY="-2" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10019" x="2108" y="674" width="700" height="668" frameX="-2" frameY="-6" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10020" x="2808" y="674" width="700" height="668" frameX="-2" frameY="-6" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10021" x="3508" y="674" width="700" height="663" frameX="-2" frameY="-11" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10022" x="4208" y="674" width="700" height="663" frameX="-2" frameY="-11" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10023" x="4208" y="674" width="700" height="663" frameX="-2" frameY="-11" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10024" x="4208" y="674" width="700" height="663" frameX="-2" frameY="-11" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10025" x="4908" y="674" width="700" height="665" frameX="-2" frameY="-9" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10026" x="4908" y="674" width="700" height="665" frameX="-2" frameY="-9" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10027" x="4908" y="674" width="700" height="665" frameX="-2" frameY="-9" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10028" x="5608" y="674" width="700" height="666" frameX="-2" frameY="-8" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Dancing Beat Instanz 10029" x="5608" y="674" width="700" height="666" frameX="-2" frameY="-8" frameWidth="704" frameHeight="674"/>
+	<SubTexture name="GF Down Note Instanz 10000" x="6308" y="674" width="700" height="636" frameX="-2" frameY="-6" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10001" x="7008" y="674" width="704" height="636" frameX="0" frameY="-6" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10002" x="0" y="1348" width="704" height="641" frameX="0" frameY="-1" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10003" x="704" y="1348" width="700" height="641" frameX="-2" frameY="-1" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10004" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10005" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10006" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10007" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10008" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10009" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10010" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10011" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10012" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10013" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10014" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10015" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10016" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10017" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10018" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Down Note Instanz 10019" x="1404" y="1348" width="700" height="642" frameX="-2" frameY="0" frameWidth="704" frameHeight="642"/>
+	<SubTexture name="GF Right Note Instanz 10000" x="2104" y="1348" width="700" height="668" frameX="-2" frameY="0" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10001" x="2804" y="1348" width="704" height="664" frameX="0" frameY="-4" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10002" x="3508" y="1348" width="704" height="642" frameX="0" frameY="-26" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10003" x="4212" y="1348" width="700" height="642" frameX="-2" frameY="-26" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10004" x="4912" y="1348" width="700" height="639" frameX="-2" frameY="-29" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10005" x="5612" y="1348" width="700" height="641" frameX="-2" frameY="-27" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10006" x="6312" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10007" x="6312" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10008" x="7012" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10009" x="7012" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10010" x="7012" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10011" x="7012" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10012" x="7012" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10013" x="7012" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Right Note Instanz 10014" x="7012" y="1348" width="700" height="644" frameX="-2" frameY="-24" frameWidth="704" frameHeight="668"/>
+	<SubTexture name="GF Up Note Instanz 10000" x="0" y="2016" width="700" height="663" frameX="-2" frameY="0" frameWidth="704" frameHeight="663"/>
+	<SubTexture name="GF Up Note Instanz 10001" x="700" y="2016" width="704" height="663"/>
+	<SubTexture name="GF Up Note Instanz 10002" x="1404" y="2016" width="704" height="663"/>
+	<SubTexture name="GF Up Note Instanz 10003" x="2108" y="2016" width="700" height="663" frameX="-2" frameY="0" frameWidth="704" frameHeight="663"/>
+	<SubTexture name="GF Up Note Instanz 10004" x="2108" y="2016" width="700" height="663" frameX="-2" frameY="0" frameWidth="704" frameHeight="663"/>
+	<SubTexture name="GF Up Note Instanz 10005" x="2108" y="2016" width="700" height="663" frameX="-2" frameY="0" frameWidth="704" frameHeight="663"/>
+	<SubTexture name="GF Up Note Instanz 10006" x="2108" y="2016" width="700" height="663" frameX="-2" frameY="0" frameWidth="704" frameHeight="663"/>
+	<SubTexture name="GF left note Instanz 10000" x="2808" y="2016" width="700" height="671" frameX="-2" frameY="0" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10001" x="3508" y="2016" width="704" height="666" frameX="0" frameY="-5" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10002" x="4212" y="2016" width="704" height="645" frameX="0" frameY="-26" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10003" x="4916" y="2016" width="700" height="645" frameX="-2" frameY="-26" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10004" x="5616" y="2016" width="700" height="645" frameX="-2" frameY="-26" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10005" x="6316" y="2016" width="700" height="647" frameX="-2" frameY="-24" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10006" x="7016" y="2016" width="700" height="650" frameX="-2" frameY="-21" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10007" x="7016" y="2016" width="700" height="650" frameX="-2" frameY="-21" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10008" x="0" y="2687" width="700" height="652" frameX="-2" frameY="-19" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10009" x="0" y="2687" width="700" height="652" frameX="-2" frameY="-19" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10010" x="0" y="2687" width="700" height="652" frameX="-2" frameY="-19" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10011" x="0" y="2687" width="700" height="652" frameX="-2" frameY="-19" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10012" x="0" y="2687" width="700" height="652" frameX="-2" frameY="-19" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10013" x="0" y="2687" width="700" height="652" frameX="-2" frameY="-19" frameWidth="704" frameHeight="671"/>
+	<SubTexture name="GF left note Instanz 10014" x="0" y="2687" width="700" height="652" frameX="-2" frameY="-19" frameWidth="704" frameHeight="671"/>
+</TextureAtlas>
