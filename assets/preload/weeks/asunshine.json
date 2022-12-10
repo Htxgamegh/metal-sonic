@@ -1,0 +1,24 @@
+{
+	"storyName": "The Beginning",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "prologuebanner",
+	"weekBefore": "metalsonicweek",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"tutorial-sunset",
+			"gf",
+			[
+				247, 126, 12
+			]
+		]
+	],
+	"weekName": "The Beginning"
+}

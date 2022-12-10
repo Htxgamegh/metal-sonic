@@ -1,0 +1,35 @@
+{
+	"storyName": "Steel Plated Faker",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "act1banner",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"steel-plated",
+			"metal",
+			[
+				10,
+				41,
+				199
+			]
+		],
+		[
+			"error",
+			"broken",
+			[
+				10,
+				41,
+				199
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Steel Plated Faker"
+}
