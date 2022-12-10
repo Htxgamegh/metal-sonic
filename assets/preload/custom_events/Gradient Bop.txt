@@ -1,0 +1,18 @@
+Gradient bopping on beat!!!
+
+Value 1:
+1st Parameter: Set the beat for the gradient bop
+	- DEFAULT HEIGHT OF THE GRADIENT: 1255
+2nd Parameter: The Bool you want to enable for the gradient change
+
+AVAILABLE BOOLS: isBump'isOpacity'addColorToArray'removeColorFromArray'callColorFromArray
+(MAKE SURE USE PUNCTUATION (') FOR MULTIPLE BOOLS 
+AND DONT USE SPACES ELSE IT WONT WORK!!)
+
+3rd Parameter: The number of the Beat for it to glow
+If the fill in the 3rd parameter empty, it will glow itself(much like philly glow)
+
+Value 2: Color hex here, if empty it will randomize the colors
+	matters if you want to add/remove the color on the random color thing
+	with these "ColorToArray" bools above
+	(use commas for multiple color)

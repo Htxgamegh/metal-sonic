@@ -1,0 +1,17 @@
+Cam bopping on beat!!!
+
+Value 1:
+1st Parameter, the number of how high the camera will it zoom to the bop
+2nd Parameter, text here, if you want to make instant camera zoom,
+do 'instant' (without spaces near comma). if you want to make it bop in beat
+just make this empty or any text
+
+3nd Parameter, set the beat for the camera be bop
+If the fill in value 1 (2nd parameter) empty, it will bop itself (much like philly glow thingy)
+
+Value 2: If true, enables the camera bopping script. Else it disables
+
+example:		example of instant bop:
+	(zoom) (bop)			(ignore the bop)
+Value 1: 0.015, 2	Value 1: 0.03
+Value 2: true		Value 1: true
